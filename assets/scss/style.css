@@ -1,0 +1,25 @@
+h1 {
+  color: pink;
+}
+
+.custom-row {
+  display: flex;
+  padding: 18px 22px;
+  gap: 25px;
+}
+
+.custom-col {
+  flex: 1;
+  text-align: center;
+}
+
+.heading {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.end {
+  padding-left: 75px;
+  box-sizing: border-box;
+}/*# sourceMappingURL=style.css.map */
